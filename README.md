@@ -13,3 +13,4 @@ https://lernantino.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Bri Miller
+# Run Buddy Inc.
